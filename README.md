@@ -1,10 +1,10 @@
-# 고려대학교 산학 캡스톤디자인 수상작
+# 고려대학교 산학 캡스톤디자인 최우수상 수상
 
 ## 프로젝트
 
 **원본 프로젝트**: [https://github.com/dreameerbb/Deeplant](https://github.com/dreameerbb/Deeplant)
 
-본 프로젝트는 Deeplant를 기반으로 진행한 산학 캡스톤디자인 대회 수상작입니다.
+본 프로젝트는 Deeplant를 기반으로 진행한 산학 캡스톤디자인 대회 **최우수상** 수상작입니다.
 
 ## 대회 정보
 
